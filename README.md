@@ -24,6 +24,11 @@ Tags: Dataset, LLM, VLM, Retreival, Generation,
 
 ### Image Generation:
 - TMM 21: ESE-GAN: Zero-Shot Food Image Classification Based on Low Dimensional Embedding of Visual Features [LINK](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10398490)
+- CVPR 19: Learning Cross-Modal Embeddings with Adversarial Networks for Cooking Recipes and Food Images [LINK](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Learning_Cross-Modal_Embeddings_With_Adversarial_Networks_for_Cooking_Recipes_and_CVPR_2019_paper.pdf)
+- 
+
+### Substiution:
+- Arxiv 23: Learning to Substitute Ingredients in Recipes [LINK](https://arxiv.org/pdf/2302.07960.pdf)
 
 ### Cultural Adaptation:
 - TACL 23: Cultural Adaptation of Recipes [LINK](https://arxiv.org/pdf/2310.17353.pdf)
